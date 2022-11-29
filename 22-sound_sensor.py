@@ -2,7 +2,6 @@ import time
 from grove.grove_sound_sensor import GroveSoundSensor
 
 PIN = 2
-
 sensor = GroveSoundSensor(PIN)
 
 print('Detecting sound...')

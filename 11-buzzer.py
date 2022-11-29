@@ -5,7 +5,7 @@ pi = pigpio.pi()
 
 #PWMパラメータ
 pwm_pin = 12 #PWM出力ピンを指定 (PWM ピン)
-duty = 70 #デューティー比を%で指定
+duty = 50 #デューティー比を%で指定
 freq = 400 #PWM周波数をHzで指定
 
 #パラメータ変換
