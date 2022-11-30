@@ -1,6 +1,5 @@
 import time,sys
 import smbus
-import RPi.GPIO as GPIO
 
 bus = smbus.SMBus(1)
 
